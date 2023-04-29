@@ -1,0 +1,16 @@
+[
+  {
+    "customer_id": "1234",
+    "points_by_month": [
+      {
+        "month": "FEBRUARY",
+        "points": 72.0
+      },
+      {
+        "month": "JANUARY",
+        "points": 94.0
+      }
+    ],
+    "total_points": 166.0
+  }
+]
