@@ -1,12 +1,7 @@
 package com.charter.rewards.utils;
 
-import com.charter.rewards.beans.CustomerReward;
-import com.charter.rewards.beans.Transaction;
-
 import java.math.BigDecimal;
-import java.util.List;
 import java.util.function.Function;
-import java.util.stream.Collectors;
 
 public class RewardsUtil {
 

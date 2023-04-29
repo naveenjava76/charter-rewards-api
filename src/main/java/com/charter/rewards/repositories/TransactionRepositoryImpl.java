@@ -1,6 +1,5 @@
 package com.charter.rewards.repositories;
 
-import com.charter.rewards.beans.Reward;
 import com.charter.rewards.beans.Transaction;
 import com.charter.rewards.dao.TransactionDAO;
 import org.springframework.beans.factory.annotation.Autowired;

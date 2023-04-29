@@ -2,7 +2,6 @@ package com.charter.rewards.dao;
 
 import com.charter.rewards.beans.Transaction;
 import org.springframework.stereotype.Repository;
-import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
